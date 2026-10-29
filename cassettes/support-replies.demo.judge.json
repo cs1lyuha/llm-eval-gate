@@ -1,0 +1,431 @@
+{
+ "046f27a8e0a106a896201fcb": {
+  "completion": {
+   "input_tokens": 87,
+   "latency_ms": 0.006824993761256337,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "2307e80fd26de1dce619069a": {
+  "completion": {
+   "input_tokens": 75,
+   "latency_ms": 0.006117013981565833,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "24a5096130c50b8568ff924c": {
+  "completion": {
+   "input_tokens": 84,
+   "latency_ms": 0.006507005309686065,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "4058d70e773666eb59cddb27": {
+  "completion": {
+   "input_tokens": 85,
+   "latency_ms": 0.009689974831417203,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "4dedac9c57d4323a30014dd5": {
+  "completion": {
+   "input_tokens": 70,
+   "latency_ms": 0.00656300107948482,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "55fa65374037d6538c18d1ce": {
+  "completion": {
+   "input_tokens": 91,
+   "latency_ms": 0.007135007763281465,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "56b6bcb19b94ff7be9dc334b": {
+  "completion": {
+   "input_tokens": 80,
+   "latency_ms": 0.007406983058899641,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "5f56ae3da15797cc4589eb03": {
+  "completion": {
+   "input_tokens": 93,
+   "latency_ms": 0.11097398237325251,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "67f3ef07b38766c927e6d93f": {
+  "completion": {
+   "input_tokens": 86,
+   "latency_ms": 0.006675021722912788,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "6bc128c914f4f958dfeabb40": {
+  "completion": {
+   "input_tokens": 77,
+   "latency_ms": 0.004631991032510996,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 15,
+   "text": "{\"score\": 1.0, \"reason\": \"escaladare corect\\u0103 la operator\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "6dbaa0de1e48ead289b95491": {
+  "completion": {
+   "input_tokens": 87,
+   "latency_ms": 0.007077993359416723,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "7da14bc756d4fad31809ae37": {
+  "completion": {
+   "input_tokens": 76,
+   "latency_ms": 0.00652798917144537,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "8b9c717ecd0a0e22e0f2d856": {
+  "completion": {
+   "input_tokens": 74,
+   "latency_ms": 0.09582500206306577,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 13,
+   "text": "{\"score\": 0.5, \"reason\": \"lipsesc detalii concrete\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "8c046f929f23e8350f4682f1": {
+  "completion": {
+   "input_tokens": 86,
+   "latency_ms": 0.006426998879760504,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "977b6e38ba9949c577018a28": {
+  "completion": {
+   "input_tokens": 75,
+   "latency_ms": 0.006766000296920538,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "97f2858f30f7b7a98ffcef48": {
+  "completion": {
+   "input_tokens": 75,
+   "latency_ms": 0.010158022632822394,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 13,
+   "text": "{\"score\": 0.5, \"reason\": \"lipsesc detalii concrete\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "a586a2457bd33a08bf176f86": {
+  "completion": {
+   "input_tokens": 70,
+   "latency_ms": 0.007000984624028206,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "a5f66dedd3c94e46918786ae": {
+  "completion": {
+   "input_tokens": 71,
+   "latency_ms": 0.006009999196976423,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "ac17f8c95089850a7a4f2f22": {
+  "completion": {
+   "input_tokens": 74,
+   "latency_ms": 0.006799993570894003,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "b3b2b1639695fc90defebe38": {
+  "completion": {
+   "input_tokens": 69,
+   "latency_ms": 0.007575989002361894,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "b40183e412c30308ef9d5c32": {
+  "completion": {
+   "input_tokens": 72,
+   "latency_ms": 0.007158989319577813,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 13,
+   "text": "{\"score\": 0.5, \"reason\": \"lipsesc detalii concrete\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "bc144448f3f4345f8a630e49": {
+  "completion": {
+   "input_tokens": 74,
+   "latency_ms": 0.006617017788812518,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "bd603e6ecebdb5ca1ab5f9c2": {
+  "completion": {
+   "input_tokens": 72,
+   "latency_ms": 0.005854002665728331,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "c0052fd6577a218645c3d1e5": {
+  "completion": {
+   "input_tokens": 85,
+   "latency_ms": 0.007297989213839173,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "c010504c5d9beb9de77feadb": {
+  "completion": {
+   "input_tokens": 77,
+   "latency_ms": 0.0066350039560347795,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "c442cec5897fc1189e78341a": {
+  "completion": {
+   "input_tokens": 85,
+   "latency_ms": 0.006641988875344396,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "d23f74cf3f65140eff5006bf": {
+  "completion": {
+   "input_tokens": 90,
+   "latency_ms": 0.009562005288898945,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "d427f40530d280f8846de1f3": {
+  "completion": {
+   "input_tokens": 88,
+   "latency_ms": 0.006961985491216183,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "d6118ee5308be536948d7d25": {
+  "completion": {
+   "input_tokens": 80,
+   "latency_ms": 0.006349990144371986,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "d7e829c18645357b166c104a": {
+  "completion": {
+   "input_tokens": 74,
+   "latency_ms": 0.006391986971721053,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "db0be27badd5b551a2554fac": {
+  "completion": {
+   "input_tokens": 75,
+   "latency_ms": 0.007341994205489755,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "e36f57e6d2ef701d98b0c086": {
+  "completion": {
+   "input_tokens": 94,
+   "latency_ms": 0.010271003702655435,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "e6f4e230fa43ab91631a57de": {
+  "completion": {
+   "input_tokens": 77,
+   "latency_ms": 0.005217996658757329,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 15,
+   "text": "{\"score\": 1.0, \"reason\": \"escaladare corect\\u0103 la operator\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "f1c20fc842f6594fbdd19b32": {
+  "completion": {
+   "input_tokens": 76,
+   "latency_ms": 0.004597997758537531,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 15,
+   "text": "{\"score\": 1.0, \"reason\": \"escaladare corect\\u0103 la operator\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "f6b317768c3cd584e50ffd61": {
+  "completion": {
+   "input_tokens": 88,
+   "latency_ms": 0.007244991138577461,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "f75f60043b8058123d3fa931": {
+  "completion": {
+   "input_tokens": 83,
+   "latency_ms": 0.007925002137199044,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "fdbcac3a18d99a8fae225d87": {
+  "completion": {
+   "input_tokens": 72,
+   "latency_ms": 0.006229005521163344,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "feac9ffa1e70f94a46c4c1d7": {
+  "completion": {
+   "input_tokens": 90,
+   "latency_ms": 0.0072290131356567144,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ },
+ "fef049743f554534cbd6a468": {
+  "completion": {
+   "input_tokens": 84,
+   "latency_ms": 0.006599992047995329,
+   "model": "claude-sonnet-5-5",
+   "output_tokens": 12,
+   "text": "{\"score\": 1.0, \"reason\": \"r\\u0103spuns concret\"}"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_preview": "Ești evaluator. Notează RĂSPUNSUL după RUBRICĂ.\nÎntoarce DOAR JSON: {\"score\": <0..1>, \"reason\": \"<o propoziție>\"}\n\nRUBRI"
+ }
+}

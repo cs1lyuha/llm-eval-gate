@@ -1,0 +1,445 @@
+{
+ "name": "support-replies",
+ "prompt": "prompts/support_v1.txt",
+ "model": "claude-haiku-5-5",
+ "gate": {
+  "min_pass_rate": 0.9,
+  "max_score_drop": 0.03
+ },
+ "defaults": [
+  {
+   "type": "max_words",
+   "value": 80
+  },
+  {
+   "type": "no_pii"
+  },
+  {
+   "type": "llm_rubric",
+   "value": "Răspunsul e concret (cifre, termene) și nu promite nimic în afara politicii.",
+   "threshold": 0.7,
+   "weight": 0.5
+  }
+ ],
+ "cases": [
+  {
+   "id": "retur-termen",
+   "critical": true,
+   "tags": [
+    "retur"
+   ],
+   "vars": {
+    "question": "Pot returna laptopul cumpărat săptămâna trecută?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "30 de zile"
+    }
+   ]
+  },
+  {
+   "id": "retur-fara-promisiuni",
+   "critical": true,
+   "tags": [
+    "retur",
+    "siguranta"
+   ],
+   "vars": {
+    "question": "Îmi dați sigur banii înapoi dacă returnez telefonul?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "not_contains",
+     "value": [
+      "garantat",
+      "sigur primiți",
+      "aprobat"
+     ]
+    },
+    {
+     "type": "icontains",
+     "value": [
+      "verificare",
+      "verificarea"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "retur-ru",
+   "critical": true,
+   "tags": [
+    "retur",
+    "ru"
+   ],
+   "vars": {
+    "question": "Можно ли вернуть товар, если он не подошёл?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "icontains",
+     "value": "30 дней"
+    }
+   ]
+  },
+  {
+   "id": "livrare-cost",
+   "critical": false,
+   "tags": [
+    "livrare"
+   ],
+   "vars": {
+    "question": "Cât costă livrarea?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "50 de lei"
+    }
+   ]
+  },
+  {
+   "id": "livrare-gratuita",
+   "critical": false,
+   "tags": [
+    "livrare"
+   ],
+   "vars": {
+    "question": "Când e livrarea gratuită?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "1000 de lei"
+    }
+   ]
+  },
+  {
+   "id": "livrare-ru",
+   "critical": false,
+   "tags": [
+    "livrare",
+    "ru"
+   ],
+   "vars": {
+    "question": "Сколько стоит доставка?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "icontains",
+     "value": "50 леев"
+    }
+   ]
+  },
+  {
+   "id": "livrare-termen-ru",
+   "critical": false,
+   "tags": [
+    "livrare",
+    "ru"
+   ],
+   "vars": {
+    "question": "Сколько дней идёт доставка?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "regex",
+     "value": "1-3 рабочих"
+    }
+   ]
+  },
+  {
+   "id": "garantie-durata",
+   "critical": false,
+   "tags": [
+    "garantie"
+   ],
+   "vars": {
+    "question": "Cât durează garanția la un laptop nou?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "24 de luni"
+    }
+   ]
+  },
+  {
+   "id": "garantie-baterie",
+   "critical": false,
+   "tags": [
+    "garantie"
+   ],
+   "vars": {
+    "question": "Ce garanție are bateria?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "12 luni"
+    }
+   ]
+  },
+  {
+   "id": "garantie-reparatie",
+   "critical": false,
+   "tags": [
+    "garantie"
+   ],
+   "vars": {
+    "question": "În cât timp se face reparația în garanție?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "14 zile"
+    }
+   ]
+  },
+  {
+   "id": "garantie-ru",
+   "critical": false,
+   "tags": [
+    "garantie",
+    "ru"
+   ],
+   "vars": {
+    "question": "Какая гарантия на новый ноутбук?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "icontains",
+     "value": "24 месяца"
+    }
+   ]
+  },
+  {
+   "id": "rambursare-termen",
+   "critical": false,
+   "tags": [
+    "rambursare"
+   ],
+   "vars": {
+    "question": "În cât timp primesc banii pe card?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "regex",
+     "value": "5\\s*-\\s*10 zile"
+    }
+   ]
+  },
+  {
+   "id": "rambursare-ru",
+   "critical": false,
+   "tags": [
+    "rambursare",
+    "ru"
+   ],
+   "vars": {
+    "question": "Когда деньги вернутся на карту?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "icontains",
+     "value": "5-10"
+    }
+   ]
+  },
+  {
+   "id": "rate-luni",
+   "critical": false,
+   "tags": [
+    "rate"
+   ],
+   "vars": {
+    "question": "Pe câte luni pot lua în rate?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "12 luni"
+    }
+   ]
+  },
+  {
+   "id": "rate-prag",
+   "critical": false,
+   "tags": [
+    "rate"
+   ],
+   "vars": {
+    "question": "De la ce sumă se poate în rate?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "3000 de lei"
+    }
+   ]
+  },
+  {
+   "id": "rate-ru",
+   "critical": false,
+   "tags": [
+    "rate",
+    "ru"
+   ],
+   "vars": {
+    "question": "Есть ли рассрочка?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "icontains",
+     "value": "без процентов"
+    }
+   ]
+  },
+  {
+   "id": "plata-ramburs",
+   "critical": false,
+   "tags": [
+    "plata"
+   ],
+   "vars": {
+    "question": "Până la ce sumă pot plăti ramburs?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "20 000"
+    }
+   ]
+  },
+  {
+   "id": "plata-nova-posta",
+   "critical": false,
+   "tags": [
+    "plata"
+   ],
+   "vars": {
+    "question": "Pot plăti cu cardul la curierul Nova Poșta?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "numerar"
+    }
+   ]
+  },
+  {
+   "id": "necunoscut-escaladare",
+   "critical": true,
+   "tags": [
+    "siguranta"
+   ],
+   "vars": {
+    "question": "Aveți magazin în Paris?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ro"
+    },
+    {
+     "type": "icontains",
+     "value": "operator"
+    }
+   ]
+  },
+  {
+   "id": "necunoscut-ru",
+   "critical": false,
+   "tags": [
+    "siguranta",
+    "ru"
+   ],
+   "vars": {
+    "question": "Вы продаёте автомобили?"
+   },
+   "assert": [
+    {
+     "type": "language",
+     "value": "ru"
+    },
+    {
+     "type": "icontains",
+     "value": "оператор"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "suite": "support-replies",
+ "prompt": "prompts/support_v1.txt",
+ "pass_rate": 1.0,
+ "score": 1.0,
+ "cases": {
+  "retur-termen": {
+   "passed": true,
+   "score": 1.0
+  },
+  "retur-fara-promisiuni": {
+   "passed": true,
+   "score": 1.0
+  },
+  "retur-ru": {
+   "passed": true,
+   "score": 1.0
+  },
+  "livrare-cost": {
+   "passed": true,
+   "score": 1.0
+  },
+  "livrare-gratuita": {
+   "passed": true,
+   "score": 1.0
+  },
+  "livrare-ru": {
+   "passed": true,
+   "score": 1.0
+  },
+  "livrare-termen-ru": {
+   "passed": true,
+   "score": 1.0
+  },
+  "garantie-durata": {
+   "passed": true,
+   "score": 1.0
+  },
+  "garantie-baterie": {
+   "passed": true,
+   "score": 1.0
+  },
+  "garantie-reparatie": {
+   "passed": true,
+   "score": 1.0
+  },
+  "garantie-ru": {
+   "passed": true,
+   "score": 1.0
+  },
+  "rambursare-termen": {
+   "passed": true,
+   "score": 1.0
+  },
+  "rambursare-ru": {
+   "passed": true,
+   "score": 1.0
+  },
+  "rate-luni": {
+   "passed": true,
+   "score": 1.0
+  },
+  "rate-prag": {
+   "passed": true,
+   "score": 1.0
+  },
+  "rate-ru": {
+   "passed": true,
+   "score": 1.0
+  },
+  "plata-ramburs": {
+   "passed": true,
+   "score": 1.0
+  },
+  "plata-nova-posta": {
+   "passed": true,
+   "score": 1.0
+  },
+  "necunoscut-escaladare": {
+   "passed": true,
+   "score": 1.0
+  },
+  "necunoscut-ru": {
+   "passed": true,
+   "score": 1.0
+  }
+ }
+}

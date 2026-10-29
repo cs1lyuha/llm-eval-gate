@@ -9,4 +9,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: pytest -q
+      - name: Teste unitare
+        run: pytest -q
+      - name: Gate de evaluare (replay din casete, fără cheie API)
+        run: python -m evalgate run suites/support.json --baseline baselines/support-replies.json

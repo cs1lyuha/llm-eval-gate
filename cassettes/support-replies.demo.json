@@ -1,0 +1,442 @@
+{
+ "01b88844518b78bcec350cd9": {
+  "completion": {
+   "input_tokens": 36,
+   "latency_ms": 0.010716001270338893,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 6,
+   "text": "Puteți returna produsul."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Можно ли вернуть тов"
+ },
+ "0a340469eeff77b6612430b0": {
+  "completion": {
+   "input_tokens": 83,
+   "latency_ms": 0.008140021236613393,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 14,
+   "text": "Извините, по этому вопросу вас проконсультирует оператор."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "0e68b946becef5aae24a8440": {
+  "completion": {
+   "input_tokens": 83,
+   "latency_ms": 0.008861999958753586,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 22,
+   "text": "Стандартная доставка стоит 50 леев. При заказе от 1000 леев — бесплатно, 1-3 рабочих дня."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "1262e7557eaebe14e2975ddb": {
+  "completion": {
+   "input_tokens": 83,
+   "latency_ms": 0.008709990652278066,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 25,
+   "text": "Produsele noi au garanție de 24 de luni. Bateriile au 12 luni, iar reparația durează maximum 14 zile."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "16d47494c1c19edef5f569a1": {
+  "completion": {
+   "input_tokens": 35,
+   "latency_ms": 0.009136012522503734,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 10,
+   "text": "Produsele noi au garanție de 24 de luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: În cât timp se face "
+ },
+ "1857eb62d2b48a62ee65edb2": {
+  "completion": {
+   "input_tokens": 83,
+   "latency_ms": 0.008584989700466394,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 22,
+   "text": "Livrarea standard costă 50 de lei. Peste 1000 de lei este gratuită, în 1-3 zile lucrătoare."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "224cc7604d46f746253ded5a": {
+  "completion": {
+   "input_tokens": 29,
+   "latency_ms": 0.007776980055496097,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 11,
+   "text": "Oferim rate fără dobândă pe 6, 10 sau 12 luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Есть ли рассрочка?\n"
+ },
+ "242a7cf818bcac8c11809eeb": {
+  "completion": {
+   "input_tokens": 33,
+   "latency_ms": 0.008323026122525334,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 10,
+   "text": "Produsele noi au garanție de 24 de luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Какая гарантия на но"
+ },
+ "339cce8a0b92e7b0cb53565c": {
+  "completion": {
+   "input_tokens": 88,
+   "latency_ms": 0.012477015843614936,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 25,
+   "text": "Produsele noi au garanție de 24 de luni. Bateriile au 12 luni, iar reparația durează maximum 14 zile."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "3694afc0cea99633d7623ae7": {
+  "completion": {
+   "input_tokens": 31,
+   "latency_ms": 0.007360999006778002,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 10,
+   "text": "Produsele noi au garanție de 24 de luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Ce garanție are bate"
+ },
+ "4163726ce3d3452b20fac61c": {
+  "completion": {
+   "input_tokens": 82,
+   "latency_ms": 0.009253009920939803,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 22,
+   "text": "Livrarea standard costă 50 de lei. Peste 1000 de lei este gratuită, în 1-3 zile lucrătoare."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "4300d996401eda8472156694": {
+  "completion": {
+   "input_tokens": 86,
+   "latency_ms": 0.008141010766848922,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 21,
+   "text": "Plata ramburs este disponibilă până la 20 000 de lei. Nova Poșta acceptă doar numerar."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "4c23ba588b1c75e087ce45f0": {
+  "completion": {
+   "input_tokens": 89,
+   "latency_ms": 0.12959301238879561,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 25,
+   "text": "Puteți returna produsul. Termenul este de 30 de zile de la livrare, iar cererea trece prin verificare."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "5951c207a34c23f011f69fe9": {
+  "completion": {
+   "input_tokens": 37,
+   "latency_ms": 0.1261369907297194,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 6,
+   "text": "Puteți returna produsul."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Pot returna laptopul"
+ },
+ "618a9837137a00f15ac78d18": {
+  "completion": {
+   "input_tokens": 82,
+   "latency_ms": 0.008161994628608227,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 19,
+   "text": "Рассрочка без процентов на 6, 10 или 12 месяцев. Для товаров дороже 3000 леев."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "69749697a63d9716c526c269": {
+  "completion": {
+   "input_tokens": 90,
+   "latency_ms": 0.012587988749146461,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 25,
+   "text": "Puteți returna produsul. Termenul este de 30 de zile de la livrare, iar cererea trece prin verificare."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "6c587afb3fe1f296da1a3271": {
+  "completion": {
+   "input_tokens": 88,
+   "latency_ms": 0.008094997610896826,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 21,
+   "text": "Plata ramburs este disponibilă până la 20 000 de lei. Nova Poșta acceptă doar numerar."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "73c2e7e2878728f66b440f25": {
+  "completion": {
+   "input_tokens": 31,
+   "latency_ms": 0.007856986485421658,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 15,
+   "text": "Îmi pare rău, pentru această întrebare vă va ajuta un operator."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Вы продаёте автомоби"
+ },
+ "773a617c22eb0c15e9ea722d": {
+  "completion": {
+   "input_tokens": 31,
+   "latency_ms": 0.008665985660627484,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 8,
+   "text": "Livrarea standard costă 50 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Сколько стоит достав"
+ },
+ "788f469283b4f09c982e2878": {
+  "completion": {
+   "input_tokens": 30,
+   "latency_ms": 0.008436007192358375,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 8,
+   "text": "Livrarea standard costă 50 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Cât costă livrarea?\n"
+ },
+ "7a9bf63d97f3cdae5fa70948": {
+  "completion": {
+   "input_tokens": 38,
+   "latency_ms": 0.013358017895370722,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 6,
+   "text": "Puteți returna produsul."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Îmi dați sigur banii"
+ },
+ "7cc59b21be40a2f940a22d39": {
+  "completion": {
+   "input_tokens": 87,
+   "latency_ms": 0.010629999451339245,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 25,
+   "text": "Produsele noi au garanție de 24 de luni. Bateriile au 12 luni, iar reparația durează maximum 14 zile."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "7f0c10831c3d886ce5522f7a": {
+  "completion": {
+   "input_tokens": 32,
+   "latency_ms": 0.007914990419521928,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 8,
+   "text": "Livrarea standard costă 50 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Сколько дней идёт до"
+ },
+ "81c23ee59d09d934f76ad103": {
+  "completion": {
+   "input_tokens": 85,
+   "latency_ms": 0.00851097865961492,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 23,
+   "text": "Oferim rate fără dobândă pe 6, 10 sau 12 luni. Se aplică pentru produse de peste 3000 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "90fae65732250ee35af38cf2": {
+  "completion": {
+   "input_tokens": 86,
+   "latency_ms": 0.008372007869184017,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 26,
+   "text": "Banii ajung pe card în 5-10 zile lucrătoare. Rambursarea se face după verificarea produsului la depozit."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "94ee04421eeacf82d68048b1": {
+  "completion": {
+   "input_tokens": 31,
+   "latency_ms": 0.02150700311176479,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 15,
+   "text": "Îmi pare rău, pentru această întrebare vă va ajuta un operator."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Aveți magazin în Par"
+ },
+ "9c008b79a8f180721eb5186a": {
+  "completion": {
+   "input_tokens": 85,
+   "latency_ms": 0.009654992027208209,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 21,
+   "text": "Деньги поступят на карту за 5-10 рабочих дней. Возврат после проверки товара на складе."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "a02a114fdc65c81d0c8cb292": {
+  "completion": {
+   "input_tokens": 85,
+   "latency_ms": 0.008978007826954126,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 20,
+   "text": "Новые товары имеют гарантию 24 месяца. На батареи — 12 месяцев, ремонт до 14 дней."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "a0b29174af4b6fde3e2fa43e": {
+  "completion": {
+   "input_tokens": 33,
+   "latency_ms": 0.008071016054600477,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 11,
+   "text": "Oferim rate fără dobândă pe 6, 10 sau 12 luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: De la ce sumă se poa"
+ },
+ "a16d3cdf6ddeeaf798aefa23": {
+  "completion": {
+   "input_tokens": 84,
+   "latency_ms": 0.007959984941408038,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 23,
+   "text": "Oferim rate fără dobândă pe 6, 10 sau 12 luni. Se aplică pentru produse de peste 3000 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "b82490329a0ba94fda319f70": {
+  "completion": {
+   "input_tokens": 84,
+   "latency_ms": 0.008522009011358023,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 22,
+   "text": "Стандартная доставка стоит 50 леев. При заказе от 1000 леев — бесплатно, 1-3 рабочих дня."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "bcec933cb8985dff0df5edd0": {
+  "completion": {
+   "input_tokens": 88,
+   "latency_ms": 0.012181000784039497,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 21,
+   "text": "Вы можете вернуть товар. Срок — 30 дней с момента доставки, заявка проходит проверку."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "c0216f7bf80b2b4daecf0036": {
+  "completion": {
+   "input_tokens": 33,
+   "latency_ms": 0.008962000720202923,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 11,
+   "text": "Banii ajung pe card în 5-10 zile lucrătoare."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Когда деньги вернутс"
+ },
+ "c8ed4605d864eedac9e52a19": {
+  "completion": {
+   "input_tokens": 32,
+   "latency_ms": 0.00820501009002328,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 11,
+   "text": "Oferim rate fără dobândă pe 6, 10 sau 12 luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Pe câte luni pot lua"
+ },
+ "cdf7a6819b619485da6f0345": {
+  "completion": {
+   "input_tokens": 31,
+   "latency_ms": 0.00764802098274231,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 8,
+   "text": "Livrarea standard costă 50 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Când e livrarea grat"
+ },
+ "d51aed08f5442a7db3b003b2": {
+  "completion": {
+   "input_tokens": 33,
+   "latency_ms": 0.008961011189967394,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 11,
+   "text": "Banii ajung pe card în 5-10 zile lucrătoare."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: În cât timp primesc "
+ },
+ "d5efd776cbd197413e50d46a": {
+  "completion": {
+   "input_tokens": 83,
+   "latency_ms": 0.008024013368412852,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 15,
+   "text": "Îmi pare rău, pentru această întrebare vă va ajuta un operator."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova (magazin online, Moldova).\nReguli:\n- Răspunde în limba clientului (română sau rusă).\n"
+ },
+ "dd856fb69b11e33641a5b6dd": {
+  "completion": {
+   "input_tokens": 33,
+   "latency_ms": 0.008244009222835302,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 13,
+   "text": "Plata ramburs este disponibilă până la 20 000 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Până la ce sumă pot "
+ },
+ "e6abc6c4b465c5ae90d7cf01": {
+  "completion": {
+   "input_tokens": 34,
+   "latency_ms": 0.00878301216289401,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 10,
+   "text": "Produsele noi au garanție de 24 de luni."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Cât durează garanția"
+ },
+ "f526a55b5ae3abc8b11d9f22": {
+  "completion": {
+   "input_tokens": 36,
+   "latency_ms": 0.008193979738280177,
+   "model": "claude-haiku-5-5",
+   "output_tokens": 13,
+   "text": "Plata ramburs este disponibilă până la 20 000 de lei."
+  },
+  "model": "claude-haiku-5-5",
+  "prompt_preview": "Ești asistentul de suport TechNova.\nFii foarte scurt: o singură propoziție.\n\nÎntrebarea clientului: Pot plăti cu cardul "
+ }
+}
